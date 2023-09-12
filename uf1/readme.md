@@ -2,5 +2,5 @@
 
 ## Teoria
 
-- [Mapa conceptual]()
-- [Emmagatzematge al núvol](uf1/Emmagatzemament al núvol.pdf)
+- [Mapa conceptual](mapa.png)
+- [Emmagatzematge al núvol](nuvol.pdf)
