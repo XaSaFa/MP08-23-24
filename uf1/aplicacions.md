@@ -10,3 +10,16 @@ A la següent imatge podem veure les xarxes socials més utilitzades a l'any 201
 
 Es pot veure que les aplicacions web estan en constant creixement i renovació.
 
+Existeixen xarxes socials específiques d'un sector (com LinkedIn per a la cerca de feina i contacte entre professionals), i generalistes com FaceBook on es pot penjar text, fotos, vídeos, ... sense estar orientat a un sector concret.
+
+Gràcies a les aplicacions Web s'han creat llocs de trabll nous:
+
+## Community manager:
+
+La figura del community manager és la de una persona que s'encarrega de tractar amb els seguidors a les xarxes socials d'una empresa, i entre les seves tasques estan:
+
+- Engrescar a la gent per a convertir-los en seguidors.
+- Comunicar les novetats de l'empresa.
+- Gestionar incidències que arribin a les empreses mitjançant xarxes socials.
+
+
