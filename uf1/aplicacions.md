@@ -16,10 +16,28 @@ Gràcies a les aplicacions Web s'han creat llocs de trabll nous:
 
 ## Community manager:
 
+![image](https://github.com/XaSaFa/MP08-23-24/assets/110727546/6afbccf2-a2f8-45f8-a52e-6bc5a7878d00)
+
 La figura del community manager és la de una persona que s'encarrega de tractar amb els seguidors a les xarxes socials d'una empresa, i entre les seves tasques estan:
 
 - Engrescar a la gent per a convertir-los en seguidors.
 - Comunicar les novetats de l'empresa.
 - Gestionar incidències que arribin a les empreses mitjançant xarxes socials.
+
+## Especialista en SEO
+
+![image](https://github.com/XaSaFa/MP08-23-24/assets/110727546/500b8a4b-b1db-4b76-850a-d825edada5c7)
+
+SEO (Search Engine Optimization) és una disciplina que estudia el comportament dels algoritmers utilitzats pels motors de cerca amb l'objectiu de millorar la posició d'una determinada web als resultats mostrats.
+
+En resum, intenta fer que un web surti en millor posició al cercador.
+
+## Especialista en SEM:
+
+![image](https://github.com/XaSaFa/MP08-23-24/assets/110727546/55c0f824-47f4-4f60-b0bb-68bb47706dd4)
+
+Aquesta persona s'encarrega del SEM (Search Engine Marketing), estudiant els segments de mercat que poden ser interessants per a un producte i contractant publicitat orientada a un tipus de client determinat.ç
+
+En resum, el SEM és màrqueting de continguts.
 
 
