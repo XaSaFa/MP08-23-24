@@ -110,6 +110,74 @@ Les etiquetes serveixen per classificar els mails per tipus.
 
 Podem vincular correus electrònics per a que es reenviin els missatges que rebem al nostre compte.
 
+## Filtres:
+
+Els filtres serveixen per fer accions amb els mails que ens arriben, podem utilitzar molts paràmetres.
+
+![image](https://github.com/XaSaFa/MP08-23-24/assets/110727546/b177110f-2501-44b4-aca6-aa88c1ea0366)
+
+![image](https://github.com/XaSaFa/MP08-23-24/assets/110727546/a71e8423-1d59-4f67-b277-9808a0e64a99)
+
+Amb els missatges que compleixin les condicions podem fer diferents accions:
+
+![image](https://github.com/XaSaFa/MP08-23-24/assets/110727546/70dc7b8a-c936-41ac-9c72-aae8537bca83)
+
+## Contactes:
+
+![image](https://github.com/XaSaFa/MP08-23-24/assets/110727546/f85875f0-1fd2-4f3b-83ce-6509f55929ae)
+
+Podem gestionar els contactes del compte de gmail des d'aquí.
+
+A l'hora de crear contactes podem crear-los un a un o crear molts a la vegada utilitzant un únic fitxer de text i important-lo.
+
+![image](https://github.com/XaSaFa/MP08-23-24/assets/110727546/36ededa6-6875-4fff-ad88-1f0271b6ddd2)
+
+![image](https://github.com/XaSaFa/MP08-23-24/assets/110727546/ecee7776-e54f-42a6-b19e-30c64155353e)
+
+Els contactes estan vinculats al compte de correu electrònic i estan disponibles a qualsevol dispositiu on iniciem sessió.
+
+## La safata d'entrada:
+
+La safata d'entrada és el nom que rep el directori o secció on veiem els missatges que ens envien:
+
+![image](https://github.com/XaSaFa/MP08-23-24/assets/110727546/9dcd7569-3b2f-4d7c-97c8-881bf0ae8f03)
+
+Opcions a la safata d'entrada:
+
+![image](https://github.com/XaSaFa/MP08-23-24/assets/110727546/0e4817eb-af10-454c-a641-89e80aed7192)
+
+![image](https://github.com/XaSaFa/MP08-23-24/assets/110727546/62a0cf2b-bc35-471a-8aac-1e6bc2a50c56)
+
+## Missatges arxivats:
+
+Quan no volem veure un missatge a cap carpeta seleccionem arxivar.
+
+Un missatge arxivat només es veu escollint la carpeta "tots els missatges" i des d'allà es podria a tornar a enviar a la safata d'entrada.
+
+![image](https://github.com/XaSaFa/MP08-23-24/assets/110727546/56f72442-76f0-484c-820e-0a8a8010a2e7)
+
+## Destacats:
+
+![image](https://github.com/XaSaFa/MP08-23-24/assets/110727546/2cf34598-912e-4835-96da-a46b14b73e82)
+
+Destacats serveix per identificar aquells missatges que són importants perquè requereixen atenció o contenen informació que volem tenir a ma.
+
+## Programats:
+
+Quan volem escriure un correu però volem que s'envii a una data i hora diferent de l'actual (i futura) podem escollir programar l'enviament.
+
+![image](https://github.com/XaSaFa/MP08-23-24/assets/110727546/2ef6d51b-26b7-45da-bc99-bd6152418360)
+
+![image](https://github.com/XaSaFa/MP08-23-24/assets/110727546/9d6aa02c-64e8-4cb3-9e2a-213334a9c544)
+
+
+## Paperera:
+
+Quan un misstage ja no serveix de res el podem moure a la paperera on estaran durant 30 dies i després seran esborrats.
+
+
+
+
 
 
 
