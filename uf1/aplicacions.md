@@ -40,4 +40,33 @@ Aquesta persona s'encarrega del SEM (Search Engine Marketing), estudiant els seg
 
 En resum, el SEM és màrqueting de continguts.
 
+## Keywords
 
+Els keywords o paraules clau són paraules o frases indexades a Google i la resta de motors de cerca.
+
+Quan algú busca una frase a un cercador aquesta frase es compara amb els keywords indexats i el motor retorna els resultats més similars trobats que s'asemblin als keywords indexats.
+
+## Backlinks:
+
+Els back links són els links d'altres dominis que apunten a un domini. És una mesura emprada pels motors de cerca per saber si un domini és rellevant o no.
+
+Penseu que si un domini té un link a un altre sol ser perquè té informació rellevant o perquè ha pagat (publicitat).
+
+### Eina per trobar paraules clau:
+
+[https://keywordtool.io/](https://keywordtool.io/)
+
+🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎
+
+Activitat:
+
+1.- Buscarem 1 empresa que tingui pàgina web i pensarem 3 paraules clau que serien interessants indexar als cercadors.
+2.- Utilitzarem l'eina anterior per cercar 10 paraules clau alternatives.
+3.- Utilitzarem una altra eina anomenada [semrush.com](https://www.semrush.com/analytics/organic/overview?db=us), amb aquesta eina:
+  - Cercarem un domini (la pàgina web de l'empresa).
+  - Buscarem quantes paraules clau té registrades.
+  - Buscarem quines són les paraules clau que té millor indexades.
+  - Buscarem el tràfic diari que rep la pàgina (visitants).
+  - Busquem quants dominis tenen link a la web escollida.
+
+🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎
