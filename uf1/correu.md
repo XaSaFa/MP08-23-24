@@ -60,3 +60,56 @@ Com que Tomlinson necessitava un caràcter que no formés part del nom de l’us
 - Van incorporant noves funcionalitats ja que es van actualitzant periòdicament.
 
 [L'origen del SPAM](https://www.youtube.com/watch?v=ycKNt0MhTkk)
+
+# Gmail
+
+Estudiarem les característiques del servei de correu electrònic gmail.
+
+## Gestionar el compte de correu:
+
+![image](https://github.com/XaSaFa/MP08-23-24/assets/110727546/79ed7e8e-e082-4b23-98b5-16f542a3920b)
+
+Tenim diverses opcions com editar la foto de perfil i el nom que es mostra als mails
+
+![image](https://github.com/XaSaFa/MP08-23-24/assets/110727546/6067a7c8-0c11-44ff-8bab-3105de4e7089)
+
+A seguretat podem observar quan va ser la darrera vegada que es va canviar la contrasenya i les últimes sessions iniciades i els dispositius on s'ha iniciat sessió.
+
+![image](https://github.com/XaSaFa/MP08-23-24/assets/110727546/f835666b-ad31-44b1-b0ff-792292cd48fc)
+![image](https://github.com/XaSaFa/MP08-23-24/assets/110727546/56b14a06-d805-49fa-84b2-57e757f4c1c1)
+
+## Configuració:
+
+Aquí tenim opcions de configuració com, per exemple, canviar l'idioma per defecte utilitzat i d'altres.
+
+Desfer enviament serveix per canviar el temps que tenim des de que enviem un mail fins que podem anul·lar l'enviament del mateix.
+
+![image](https://github.com/XaSaFa/MP08-23-24/assets/110727546/36e4613f-159d-4c41-ab7d-46d76ce6bf8d)
+
+Opcions avançades per escriure mails:
+
+![image](https://github.com/XaSaFa/MP08-23-24/assets/110727546/da537cab-fe40-4178-9a7c-0bc74e225430)
+
+La Signatura permet crear un bloc de text i imatges que es mostren al final de cada correu electrònic enviat.
+
+![image](https://github.com/XaSaFa/MP08-23-24/assets/110727546/66214494-8ce7-4e48-877b-92aa67c9488c)
+
+La resposta automàtica és un mail que s'envia automàticament en resposta als correus electrònics rebuts, normalment s'utilitza per avisar que unn correu electrònic estarà sense atendre durant un període de temps determinat.
+
+### Etiquetes:
+
+![image](https://github.com/XaSaFa/MP08-23-24/assets/110727546/84478da8-e380-40ea-b9c1-3cccdcc34280)
+
+Les etiquetes serveixen per classificar els mails per tipus.
+
+![image](https://github.com/XaSaFa/MP08-23-24/assets/110727546/68a69457-bab9-4f05-8df6-717e5a5ff069)
+
+### Reenviar correus:
+
+![image](https://github.com/XaSaFa/MP08-23-24/assets/110727546/fc535d03-77e4-4a5c-b30e-dbb23804399b)
+
+Podem vincular correus electrònics per a que es reenviin els missatges que rebem al nostre compte.
+
+
+
+
