@@ -5,7 +5,7 @@
 - [Mapa conceptual](mapa.png) A i B
 - [Emmagatzematge al núvol](nuvol.pdf) A i B
 - [Què són les aplicacions web?](teoria2.pdf) A i B
-- [Aplicacions web](aplicacions.md)
+- [Aplicacions web](aplicacions.md) A
 - [Correu electrònic](correu.md) B comencem per proveïdors de mail.
 
 ## Activitats
