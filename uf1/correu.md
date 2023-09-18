@@ -173,7 +173,7 @@ Quan volem escriure un correu però volem que s'envii a una data i hora diferent
 
 ## Paperera:
 
-Quan un misstage ja no serveix de res el podem moure a la paperera on estaran durant 30 dies i després seran esborrats.
+Quan un missatge ja no serveix de res el podem moure a la paperera on estaran durant 30 dies i després seran esborrats.
 
 
 
