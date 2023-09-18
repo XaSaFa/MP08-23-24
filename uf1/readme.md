@@ -6,7 +6,7 @@
 - [Emmagatzematge al núvol](nuvol.pdf) A i B
 - [Què són les aplicacions web?](teoria2.pdf) A i B
 - [Aplicacions web](aplicacions.md)
-- [Correu electrònic](correu.md)
+- [Correu electrònic](correu.md) B comencem per proveïdors de mail.
 
 ## Activitats
 
