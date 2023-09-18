@@ -5,6 +5,8 @@
 - [Mapa conceptual](mapa.png)
 - [Emmagatzematge al núvol](nuvol.pdf)
 - [Què són les aplicacions web?](teoria2.pdf)
+- [Aplicacions web](aplicacions.md)
+- [Correu electrònic](correu.md)
 
 ## Activitats
 
