@@ -136,6 +136,10 @@ A l'hora de crear contactes podem crear-los un a un o crear molts a la vegada ut
 
 Els contactes estan vinculats al compte de correu electrònic i estan disponibles a qualsevol dispositiu on iniciem sessió.
 
+Podem crear llistes de contactes als quals s'enviarà un correu electrònic si utilitzem la llista com destinatari.
+
+![image](https://github.com/XaSaFa/MP08-23-24/assets/110727546/3a917ffd-efcc-4029-8ca3-367a88ee153b)
+
 ## La safata d'entrada:
 
 La safata d'entrada és el nom que rep el directori o secció on veiem els missatges que ens envien:
