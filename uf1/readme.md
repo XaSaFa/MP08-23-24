@@ -11,3 +11,4 @@
 ## Activitats
 
 - [Activitat 1 - Investigació d'aplicacions web](activitat1.md) A i B
+- [Activitat 3 - Correu electrònic](activitat_correu.md) B 
