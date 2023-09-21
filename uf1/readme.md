@@ -12,4 +12,4 @@
 
 - [Activitat 1 - Investigació d'aplicacions web](activitat1.md) A i B
 - [Activitat 2 - SEO](activitat_seo.md) A i B
-- [Activitat 3 - Correu electrònic](activitat_correu.md) B 
+- [Activitat 3 - Correu electrònic](activitat_correu.md) A i B 
