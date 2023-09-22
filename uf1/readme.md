@@ -6,10 +6,12 @@
 - [Emmagatzematge al núvol](nuvol.pdf) A i B
 - [Què són les aplicacions web?](teoria2.pdf) A i B
 - [Aplicacions web i SEO](aplicacions.md) A i B
-- [Correu electrònic](correu.md) B 
+- [Correu electrònic](correu.md) B
+- [Aplicacions web organitxatives](organitzacio.md)
 
 ## Activitats
 
 - [Activitat 1 - Investigació d'aplicacions web](activitat1.md) A i B
 - [Activitat 2 - SEO](activitat_seo.md) A i B
 - [Activitat 3 - Correu electrònic](activitat_correu.md) A i B 
+- [Activitat 4 - Kanban](organitzacio.md)
