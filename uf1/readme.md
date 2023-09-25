@@ -15,3 +15,4 @@
 - [Activitat 2 - SEO](activitat_seo.md) A i B
 - [Activitat 3 - Correu electrònic](activitat_correu.md) A i B 
 - [Activitat 4 - Kanban](organitzacio.md)
+- [Activitat 5 - Imatges](activitat_colabora.md)
