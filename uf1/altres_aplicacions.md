@@ -32,4 +32,8 @@ Una de les més conegudes és Remove BG (https://www.remove.bg/), que és una ap
 
 ## Comprimir pdfs
 
-Hi ha vegades que tenim un límit a l'hora d'enviar un fitxer 
+Hi ha vegades que tenim un límit a l'hora d'enviar un fitxer per mail (o al moodle), una manera de que els fitxers ocupin menys espai és comprimir-los i existeix una eina online que permet fer-ho anomenada I love pdfs (https://www.ilovepdf.com/ca), que a més de comprimir els pdfs ens deixa fer altres modificacions com dividir-los, unir-los, ...
+
+![image](https://github.com/XaSaFa/MP08-23-24/assets/110727546/853acafd-a335-4aec-afe9-db9ae9faaccb)
+
+
