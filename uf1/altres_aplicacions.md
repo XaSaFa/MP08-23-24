@@ -16,6 +16,20 @@ A nivell organitzatiu d'empresa es poden compartir de tal manera que la resta de
 
 ![image](https://github.com/XaSaFa/MP08-23-24/assets/110727546/fa9bba5e-a232-4a04-b424-794f7f7fe3eb)
 
-Aquest és un exemple de Google Calendar, una aplicació web gratuita de Google.
+Aquest és un exemple de Google Calendar, una aplicació web gratuïta de Google.
 
-Quan utilitzem 
+Quan utilitzem el calendari ens deixa crear events, els quals es poden transformar en reunions a les quals es pot convidar contactes.
+
+Existeixen altres tipus de Calendaris, com per exemple Doodle (https://doodle.com/es/), que permet programar reunions i que es va fer famós per permetre votar per decidir quan es vol fer un event.
+
+## Eliminar fons d'una imatge
+
+Hi ha aplicacions que es solucionen problemes com, per exemple, facilitar el treure el fons d'una imatge com pot ser una foto.
+
+Una de les més conegudes és Remove BG (https://www.remove.bg/), que és una aplicació a la qual li puges una imatge i te la pots descarregar sense el fons.
+
+![image](https://github.com/XaSaFa/MP08-23-24/assets/110727546/74e2db3e-e84b-4910-ba69-fb8e1572d107)
+
+## Comprimir pdfs
+
+Hi ha vegades que tenim un límit a l'hora d'enviar un fitxer 
