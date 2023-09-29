@@ -90,6 +90,7 @@ Alguns dels formats més utilitzats són:
 
 Activitat:
 
+0. Fes aquesta [activitat](http://planeta42.com/it/filetypestree/game.html) online i pega captura de pantalla final. 
 1. Fes una taula amb 6 formats d'imatges de mapes de bits indicant sí tenen compressió o no, pèrdua de qualitat o no i les característiques principals.
 2. Busca 3 formats d'imatges vectorials i explica les característiques principals i a quines aplicacions web els podem utilitzar.
 3. Busca 3 formats de vídeos i explica les seves característiques, busca aplicacions web que ens deixin exportar en aquests formats.
