@@ -5,4 +5,4 @@
 
 - [Mapa conceptual](gestors.png)
 - [Introducció - Historia dels gestors d'arxius web](historia.md)
-- [Característiques](caracteristiques.md)
+- Característiques
