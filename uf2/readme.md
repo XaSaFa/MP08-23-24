@@ -9,4 +9,5 @@
 
 ### Activitats
 
+- [Activitat 0](activitat0.md)
 - [Activitat 1](activitat1.md)
