@@ -12,29 +12,21 @@ Com podem veure té una estructura d'arbre, començant per l'arrel del sistea de
 
 Si vull accedir a la careta photos de l'usuari jono no ho puc fer directament, ja que aquesta carpeta no està a l'arrel, la ruta correcta serà...
 
-🤔
-🤔
-🤔
-🤔
-🤔
-🤔
-🤔
-🤔
-🤔
-🤔
-🤔
-🤔
-🤔
-🤔
-🤔
-🤔
-🤔
-🤔
-🤔
-🤔
-🤔
-🤔
-🤔
+🤔<br>
+🤔<br>
+🤔<br>
+🤔<br>
+🤔<br>
+🤔<br>
+🤔<br>
+🤔<br>
+🤔<br>
+🤔<br>
+🤔<br>
+🤔<br>
+🤔<br>
+🤔<br>
+🤔<br>
 
 /home/jono/photos
 
@@ -54,15 +46,13 @@ cd /home/jono/photos
 
 La jerarquia a Windows funciona mitjançant unitats, hereta coses de MS-DOS.
 
-Als primers ordinadors IBM PC
+Als primers ordinadors IBM PC la primera unitat A era la unitat de disquetera (i normalment la única).
 
+La segona unitat de disquetera es va anomenar B.
 
+Quan es va introduïr el disc dur als IBM PC XT la unitat de disc dur era la tercera, és a dir, la C.
 
-
-
-
-
-
+![image](https://github.com/XaSaFa/MP08-23-24/assets/110727546/f02ad97e-1e1f-49a0-a7f8-b45156078e7b)
 
 # Característiques i funcionalitats bàsiques
 
@@ -130,4 +120,21 @@ La majoria de gestors d'arxius web incorporen funcionalitats que en part són he
 - Sincronització de tasques.
 - Gestió de projectes.
 
+🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎
 
+Activitat (per parelles):
+
+Coneixent les característiques dels gestors d'arxius web, busca'n 3 gestors d'arxius web i explica les seves característiques en una presentació.
+
+Què ha de tenir la presentació?
+
+1. Nom i URL.
+2. Preu.
+3. Característiques d'instal·lació (si es pot instal·lar requisits de SO, maquinari, ...).
+4. Límits d'espai d'emmagatzematge i compartició.
+5. Si és documental o no.
+6. Avantatges de fer-lo servir.
+7. Característiques que veieu interessants.
+
+**No podeu escollir ni Google Classroom ni Owncloud.**
+🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎
