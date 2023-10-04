@@ -4,5 +4,5 @@
 ### Teoria
 
 - [Mapa conceptual](gestors.png)
-- [Introducció - Historia dels gestors d'arxius web](historia.md)
+- [Introducció - Historia dels gestors d'arxius web](introduccio.md)
 - Característiques
