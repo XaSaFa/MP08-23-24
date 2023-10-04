@@ -9,5 +9,5 @@
 
 ### Activitats
 
-- [Activitat 0](activitat0.md)
-- [Activitat 1](activitat1.md)
+- [Activitat 0 - Gestors d'arxius de text i visuals](activitat0.md)
+- [Activitat 1- Gestors d'arxius web](activitat1.md)
