@@ -12,4 +12,4 @@ Què ha de tenir la presentació?
 6. Avantatges de fer-lo servir.
 7. Característiques que veieu interessants.
 
-**No podeu escollir ni Google Classroom ni Owncloud.**
+**No podeu escollir ni Google Drive ni Owncloud.**
