@@ -11,3 +11,9 @@
 
 - [Activitat 0 - Gestors d'arxius de text i visuals](activitat0.md)
 - [Activitat 1- Gestors d'arxius web](activitat1.md)
+
+### Recursos
+
+**No instal·leu PHP**
+- [Tutorial LAMP](https://dungeonofbits.com/category/lamp.html)
+  
