@@ -17,5 +17,5 @@
 - [Xuleta comandes Linux](comandes_linux.md)
 
 
-- [Tutorial LAMP](https://dungeonofbits.com/category/lamp.html) **No instal·leu PHP**
+- [Tutorial LAMP **No instal·leu PHP**](https://dungeonofbits.com/category/lamp.html) 
   
