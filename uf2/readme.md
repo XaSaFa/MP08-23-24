@@ -14,6 +14,8 @@
 
 ### Recursos
 
+- [Xuleta comandes Linux](comandes_linux.md)
+
 **No instal·leu PHP**
 - [Tutorial LAMP](https://dungeonofbits.com/category/lamp.html)
   
