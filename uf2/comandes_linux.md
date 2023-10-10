@@ -25,3 +25,10 @@ Apagar equip:
 ```
 shutdown -h now
 ```
+
+Connectar d'un equip a un altre per SSH
+```
+ssh nomUsuari@ipequip
+```
+
+Exemple: ssh francesc@192.168.1.10
