@@ -12,7 +12,7 @@ ping IP
 
 Instal·lar paquet XXXX de apt:
 ```
-sudo apu install XXXX
+sudo apt install XXXX
 ```
 
 Comprovar si un servei funciona:
