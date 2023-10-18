@@ -6,6 +6,7 @@
 - [Mapa conceptual](gestors.png)
 - [Introducció - Historia dels gestors d'arxius web](introduccio.md)
 - [Característiques](caracteristiques.md)
+- [Seguretat de contrasenyes](passwords.md)
 
 ### Owncloud
 
