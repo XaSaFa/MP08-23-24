@@ -18,6 +18,7 @@
 - [Activitat 0 - Gestors d'arxius de text i visuals](activitat0.md)
 - [Activitat 1- Gestors d'arxius web](activitat1.md)
 - [Activitat Owncloud 1 - Perfil d'usuari](activitat-owncloud1.md)
+- [Activitat Owncloud 2 - usuaris, grups i quotes](activitat-owncloud2.md)
 
 ### Recursos
 
