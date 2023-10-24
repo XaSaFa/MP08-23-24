@@ -19,6 +19,7 @@
 - [Activitat 1- Gestors d'arxius web](activitat1.md)
 - [Activitat Owncloud 1 - Perfil d'usuari](activitat-owncloud1.md)
 - [Activitat Owncloud 2 - usuaris, grups i quotes](activitat_owncloud2.md)
+- [Activitat Owncloud 3 - compartir recursos](activitat_owncloud3.md)
 
 ### Recursos
 
