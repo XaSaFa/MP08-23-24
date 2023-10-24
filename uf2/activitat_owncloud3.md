@@ -24,7 +24,7 @@ L'emmagatzematge local del server et deixa compartir carpetes del sistema operat
 
 Es pot veure com funciona [aquí](https://doc.owncloud.com/server/next/admin_manual/configuration/files/external_storage/local.html).
 
-Crea una carpeta anomenada "publicX" on X és el teu cognom a la ruta "/home/usuari/publicX" usuari és el usuari de la MV.
+Crea una carpeta anomenada "publicX" on X és el teu cognom a la ruta "/publicX" usuari és el usuari de la MV.
 
 Connecta aquesta carpeta com emmagatzematge local.
 
