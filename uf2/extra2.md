@@ -16,4 +16,4 @@ Mostreu els passos seguits.
 
 ![image](https://github.com/XaSaFa/MP08-23-24/assets/110727546/172dce75-1c47-4cd4-a453-2d72a8c8be8c)
 
-Mostra-la instal·lada i fentla servir.
+Mostra-la instal·lada i utilitzant-la.
