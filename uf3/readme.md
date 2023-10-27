@@ -10,4 +10,5 @@
 
 ## Recursos
 
+- [Tutorial instal·lació de Wordpress](https://dungeonofbits.com/category/wordpress.html)
 - [Explicació de CMS en anglès](https://www.velocityconsultancy.com/what-is-a-cms-website/)
