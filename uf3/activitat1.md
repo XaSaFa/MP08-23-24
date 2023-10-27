@@ -16,6 +16,7 @@ RESPOSTA:
 
 - CMS
 - Plugins
+- Possibles temes
 - Requisits hardware
 - Requisits software
 
@@ -31,6 +32,7 @@ RESPOSTA:
 
 - CMS
 - Plugins
+- Possibles temes
 - Requisits hardware
 - Requisits software
 
@@ -45,5 +47,6 @@ RESPOSTA:
 
 - CMS
 - Plugins
+- Possibles temes
 - Requisits hardware
 - Requisits software
