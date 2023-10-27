@@ -6,7 +6,7 @@
 
 ## Activitats
 
-[Activitat 1 - Investigació i casos d'ús](activitat1.md)
+- [Activitat 1 - Investigació i casos d'ús](activitat1.md)
 
 ## Recursos
 
