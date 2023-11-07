@@ -3,6 +3,7 @@
 ## Teoria
 
 - [Introducció](intro.md)
+- Per entrar a editar la vostra web heu de fer-ho amb la URL **localhost/smixers.com/wp-admin**
 
 ## Activitats
 
