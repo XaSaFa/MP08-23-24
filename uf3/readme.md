@@ -10,6 +10,8 @@
 - [Activitat 1 - Investigació i casos d'ús](activitat1.md)
 - [Activitat Wordpress 1 - Creació de la portada de la web](web1.md)
 - [Activitat Wordpress 2 - Instal·lació de Woocommerce](web2.md)
+- Activitat Wordpress 3 - Crear pàgina de contacte amb dades i un mapa de google.
+- [Activitat Wordpress 4 - Formulari de contacte](web4.md)
 
 ## Recursos
 
