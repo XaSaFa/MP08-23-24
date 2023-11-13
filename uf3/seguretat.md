@@ -27,6 +27,10 @@ Quan diem actualitzar ens referim a mantenir actualitzats els següents aspectes
 
 Qualsevol element sense actualitzar és susceptible de ser atacat per agents malintencionats.
 
+## Usuaris de Wordpress
+
+Comprova que els usuaris de Wordpress tenen el perfil que hauríen de tenir, sobretot comprova que els usuaris administradors són els que han de ser.
+
 ## Contrasenyes segures
 
 Com amb qualsevol altre aplicació protegida per contrasenya ens hem d'assegurar que les contrasenyes utilitzades pels usuaris són prou segures i apoder ser no són repetides a altres serveis.
