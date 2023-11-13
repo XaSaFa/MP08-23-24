@@ -5,6 +5,7 @@
 - Per entrar a editar la vostra web heu de fer-ho amb la URL **localhost/smixers.com/wp-admin**
 - [Introducció](intro.md)
 - [Usuaris de Wordpress](usuaris.md)
+- [Seguretat a Wordpress(seguretat.md)
 
 ## Activitats
 
