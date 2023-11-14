@@ -17,6 +17,7 @@
 - Activitat Wordpress 3 - Crear pàgina de contacte amb dades i un mapa de google.
 - [Activitat Wordpress 4 - Formulari de contacte](web4.md)
 - [Activitat Wordpress 5 - Creació d'usuaris](web5.md)
+- [Activitat Wordpress 6 - Entrades del blog](web6.md)
 ## Recursos
 
 - [Instal·lar Guest Additions](guest.md)
