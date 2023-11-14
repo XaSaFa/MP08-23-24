@@ -6,6 +6,8 @@
 - [Introducció](intro.md)
 - [Usuaris de Wordpress](usuaris.md)
 - [Seguretat a Wordpress](seguretat.md)
+- [Pàgines i entrades de Wordpress](entrades.md)
+- [Pàgines obligatòries a una web](pagines_obligatories.md)
 
 ## Activitats
 
