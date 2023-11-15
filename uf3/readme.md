@@ -22,6 +22,7 @@ La part pràctica de la nota serà la web que heu creat i l'activitat 5 que heu 
 - [Activitat Wordpress 4 - Formulari de contacte](web4.md)
 - [Activitat Wordpress 5 - Creació d'usuaris](web5.md)
 - [Activitat Wordpress 6 - Entrades del blog](web6.md)
+- [Rúbrica puntuació pàgina web](rubrica_web.md)
 
 ## Recursos
 
