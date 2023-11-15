@@ -8,3 +8,5 @@ Per aquest motiu heu de fer que quan cliqueu a la secció Blog del vostre Wordpr
 
 **Heu de crear 5 entrades relacionades amb la temàtica de la vostra web.**
 
+Tens aquest [article](https://susanapavon.com/tipos-de-post-para-escribir-blog/) per agafar idees.
+
