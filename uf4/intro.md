@@ -1,5 +1,7 @@
 # Introduction to Learning Management Systems
 
+![image](https://github.com/XaSaFa/MP08-23-24/assets/110727546/b8a0c92a-4cf3-4dd7-8bc5-287571a45bef)
+
 ## What is an LMS?
 
 Learning Management Systems or LMS are software applications that **creates a virtual environment of study**.
@@ -13,6 +15,14 @@ If we analyze how a course is taught in a school we are going to see some roles.
 - **Administrator**: The person maintaining the LMS installing and updating the software, he also creates and manage users.
 
 There can be more roles in an LMS but they are usually specialties of existing roles.
+
+## What are the benefits of use an LMS?
+
+- Students and teachers can access the course 24/7 because it is online always so there is no fixed schedule.
+- The users can access from anywhere with internet.
+- The resources of the course are accessible always.
+- The course is easily customizable.
+- A physical space is not needed to teach classes.
 
 ## Who uses an LMS?
 
