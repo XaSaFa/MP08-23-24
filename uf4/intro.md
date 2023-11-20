@@ -40,7 +40,7 @@ There are lots of LMS that we can use today, some of them are free, some of them
 
 You are going to investigate the situation of the LMS ecosystem today.
 
-In groups of three you are going to search the web and fill a table like the one below with 6 LMS.
+In groups of three you are going to search the web and fill a table like the one below with 9 LMS.
 
 |  | SaaS | Installed |
 |----------|----------|----------|
