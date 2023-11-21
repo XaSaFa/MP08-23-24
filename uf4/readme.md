@@ -5,3 +5,6 @@
 - [Introduction](intro.md)
 - [Classroom](classroom.md)
 
+## Activitats
+
+- [Activitat 1 - Classroom](activitat_classroom.md)
