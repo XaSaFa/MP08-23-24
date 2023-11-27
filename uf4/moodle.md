@@ -15,9 +15,18 @@ Busqueu els requisits de hardware i software per instal·lar Moodle 4.1 LTS.<br>
 
 ### Requisits de hardware:
 
+- Disc dur: 200MB, 5GB mínim per materials de curs.
+- CPU: 1GHz, recomanat 2GHZ 2 nuclis.
+- RAM: 512MB, recomanat: 1GB.
 
 ### Requisits de software:
 
+- PHP: Mínim 8.0.
+- Servidor web: Apache.
+- Base de dades:
+ - MariaDB, MySQL, Oracle DB, PostgreSQL, y SQL Server.
+
+El client necessita un navegador.
  
 
 
