@@ -8,6 +8,7 @@
 ## Activitats
 
 - [Activitat 1 - Classroom](activitat_classroom.md)
+- [Activitat 2 - Documentar instal·lació de Moodle](activitat_moodle1.md)
 
 ## Recursos
 
