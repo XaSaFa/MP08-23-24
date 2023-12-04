@@ -5,7 +5,7 @@
 - [Introduction](intro.md)
 - [Classroom](classroom.md)
 - [Introducció a Moodle](moodle.md)
-- [Categories i cursos](cursos.md)
+- [Categories i cursos](moodle2.md)
 - [Usuaris](usuaris.md)
 
 ## Activitats
