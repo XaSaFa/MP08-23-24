@@ -14,7 +14,10 @@ Per accedir a la configuració d'usuaris ho fem pel menú d'Administració del l
 
 ### Rols i permisos d'usuari
 
-![Uploading image.png…]()
+![image](https://github.com/XaSaFa/MP08-23-24/assets/110727546/9f42713f-e251-45f6-954a-72bd369d6e40)
 
+### Rols per defecte
+
+![image](https://github.com/XaSaFa/MP08-23-24/assets/110727546/e434c7be-ef73-4410-bd16-b9f4dca20d75)
 
 
