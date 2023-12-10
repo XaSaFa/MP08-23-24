@@ -12,5 +12,5 @@ El professor profe2 el matriculareu a MP08 com profesor sense permisos d'edició
 
 Mostra una captura on es vegi el curs i els integrants amb el rol correcte.
 
-Crea una cohort amb els 3 estudiants i matricula la cohort al curs MP01.
+Crea una cohort amb els 3 estudiants i matricula la cohort al curs MP01. Documenta el procés.
   
