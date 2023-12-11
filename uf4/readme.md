@@ -15,6 +15,7 @@
 - [Activitat 3 - Crear categories i cursos](activitat_moodle2.md)
 - **Activitats setmana 10 al 15**
  - [Activitat 4 - Usuaris i cohorts a Moodle](activitat_moodle3.md)
+ - [Activitat 5 - Create and use a course in Moodle](activitat_moodle_4.md)
   
 
 ## Recursos
