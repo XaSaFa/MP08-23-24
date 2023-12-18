@@ -9,3 +9,4 @@
 - [links](links.md)
 - [imatges](imatges.md)
 - [Mapa d'imatges](mapa.md)
+- [llistes](llistes.md)
