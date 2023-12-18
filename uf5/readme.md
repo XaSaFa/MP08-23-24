@@ -11,6 +11,7 @@
 - [imatges](imatges.md)
 - [Mapa d'imatges](mapa.md)
 - [llistes](llistes.md)
+- [Audio, video i multimedia](multimedia.md)
 
 ## Activitats
 
