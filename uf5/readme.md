@@ -10,3 +10,7 @@
 - [imatges](imatges.md)
 - [Mapa d'imatges](mapa.md)
 - [llistes](llistes.md)
+
+## Activitats
+
+- [html-1](activitat_html_1.md)
