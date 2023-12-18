@@ -16,3 +16,7 @@
 ## Activitats
 
 - [html-1](activitat_html_1.md)
+
+## Recursos
+
+- [www.w3schools.com](https://www.w3schools.com/)
