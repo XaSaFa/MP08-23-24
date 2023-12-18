@@ -4,7 +4,7 @@
 
 2.- Fem una pàgina web anomenada Xhorari.html (on X és el vostre cognom) amb una taula amb el vostre horari, feu servir negreta per indicar les hores del pati.
 
-3.- Fem una pàgina web anomenada Xcurrículum.html (on X és el vostre cognom) amb un curriculum vitae vostre amb una foto inclosa. Feu servir diferents tags de llistes, format de text, headers, imatge, etc.
+3.- Fem una pàgina web anomenada Xcurriculum.html (on X és el vostre cognom) amb un curriculum vitae vostre amb una foto inclosa. Feu servir diferents tags de llistes, format de text, headers, imatge, etc.
 
 4.- Fem una pàgina web anomenada Xpelicula.html (on X és el vostre cognom) amb la informació d'una pel·lícula que us agradi, similar a la de la imatge següent.
 
