@@ -2,5 +2,6 @@
 
 ## HTML
 
+- [Currículum](curriculum.md)
 - [Introducció](intro.md)
 - [formularis](formularis1.md)
