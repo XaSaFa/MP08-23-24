@@ -1,10 +1,11 @@
 # UF5 - FONAMENTS D'HTML I FULLS D'ESTIL
 
 - [Currículum](curriculum.md)
-- [Introducció](intro.md)
+
 
 ## HTML
 
+- [Introducció a HTML](intro.md)
 - [formularis](formularis1.md)
 - [links](links.md)
 - [imatges](imatges.md)
