@@ -5,3 +5,6 @@
 - [Currículum](curriculum.md)
 - [Introducció](intro.md)
 - [formularis](formularis1.md)
+- [links](links.md)
+- [imatges](imatges.md)
+- [Mapa d'imatges](mapa.md)
