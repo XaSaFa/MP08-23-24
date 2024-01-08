@@ -2,6 +2,16 @@
 
 - [Currículum](curriculum.md)
 
+## Visual Studio Code
+
+Instal·lar Visual Studio Code, descarreguem la versió DEB de Linux a [https://code.visualstudio.com/Download](https://code.visualstudio.com/Download).
+Anem a la carpeta on està el fitxer i escrivim:
+
+```
+sudo dpkg -i nomdelfitxer
+```
+
+Ara per arrencar el programa obrim un terminal i escrivim **code** o a Aplicacions busquem **code**.
 
 ## HTML
 
