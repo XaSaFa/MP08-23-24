@@ -33,6 +33,11 @@ Gimp us dirà el codi de color en diferents formats, utilitzeu la notació HTML:
 
 ![image](https://user-images.githubusercontent.com/110727546/216999413-211a1b9d-3852-479d-905c-8354b3b9443e.png)
 
-4. Crea una web que crei un degradat o gradient de 16 colors, cada color en un paràgraf diferent, el color estarà com a fons del paràgraf i el text serà el codi RGB de cada color utilitzat.
+4. Crea una web que crei un degradat o gradient de 10 colors, cada color en un paràgraf diferent, el color estarà com a fons del paràgraf i el text serà el codi RGB de cada color utilitzat.
 
-5. Fes un degradat de colors similar a l'anterior però utilitzant uns altres colors on el que canvia de color és el text mentre que el fons del paràgraf serà negre. **A més canvia la font i el tamany del text a cada paràgraf**.
+![image](https://github.com/XaSaFa/MP08-23-24/assets/110727546/1c56a134-f3fc-461b-bbfb-dac8deaae3ba)
+
+5. Fes un degradat de colors similar a l'anterior però utilitzant uns altres colors on el que canvia de color és el text mentre que el fons del paràgraf serà negre.
+
+![image](https://github.com/XaSaFa/MP08-23-24/assets/110727546/33184df5-5fca-4f61-856b-f81f6fb2804c)
+
