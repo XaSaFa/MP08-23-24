@@ -25,7 +25,8 @@ Ara per arrencar el programa obrim un terminal i escrivim **code** o a Aplicacio
 
 ## Activitats
 
-- [html-1](activitat_html_1.md)
+- [1 - html variat](activitat_html_1.md)
+- [2 - mapa d'imatges](mapa_imatges.md)
 
 ## Recursos
 
