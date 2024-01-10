@@ -28,6 +28,9 @@ Ara per arrencar el programa obrim un terminal i escrivim **code** o a Aplicacio
 - [1 - html variat](activitat_html_1.md)
 - [2 - mapa d'imatges](mapa_imatges.md)
 
+
+- [Per practicar si heu enllestit la feina](practicar.md)
+
 ## Recursos
 
 - [www.w3schools.com](https://www.w3schools.com/)
