@@ -37,6 +37,7 @@ Ara per arrencar el programa obrim un terminal i escrivim **code** o a Aplicacio
 
 - [1 - html variat](activitat_html_1.md)
 - [2 - mapa d'imatges](mapa_imatges.md)
+- [3 - activitats de llistes](activitat_llistes.md)
 
 
 - [Per practicar si heu enllestit la feina](practicar.md)
