@@ -23,6 +23,16 @@ Ara per arrencar el programa obrim un terminal i escrivim **code** o a Aplicacio
 - [llistes](llistes.md)
 - [Audio, video i multimedia](multimedia.md)
 
+## CSS
+
+- [Com inserir CSS a un web](inserir_css.md.md)
+- [Atribut style](style.md)
+- [Selectors de CSS](css1.md)
+- [Color](color.md)
+- [Background](backgroundCSS.md)
+- [Border](borderCSS.md)
+- [Margin i padding](marging_paddingCSS.md)
+
 ## Activitats
 
 - [1 - html variat](activitat_html_1.md)
