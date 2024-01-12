@@ -25,7 +25,7 @@ Ara per arrencar el programa obrim un terminal i escrivim **code** o a Aplicacio
 
 ## CSS
 
-- [Com inserir CSS a un web](inserir_css.md.md)
+- [Com inserir CSS a un web](inserir_css.md)
 - [Atribut style](style.md)
 - [Selectors de CSS](css1.md)
 - [Color](color.md)
