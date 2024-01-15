@@ -6,6 +6,7 @@ Utilitzant taules i CSS intenta fer una web que simuli aquest sudoku.
 
 ```
 
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -13,376 +14,378 @@ Utilitzant taules i CSS intenta fer una web que simuli aquest sudoku.
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sudoku</title>
     <style>
-        tr, td, table{
-            border: 1px black solid;
-            border-collapse: collapse;
-        }
-        td{
+        body{
+            font-size: 60px;
             text-align: center;
         }
-
-        .cella_blava{
-            background-color: rgb(89, 154, 188);
+        td{
+            border: 1px black solid;
         }
-        .cella_verda{
-            background-color: greenyellow;
+        table{
+            border: 3px black solid;
+            border-collapse: collapse;
         }
         .cella_vermella{
-            background-color: indianred;
+            background-color: red;
+        }
+        .cella_verda{
+            background-color: rgb(22, 168, 22);
+        }
+        .cella_blava{
+            background-color: aqua;
         }
         .cella_buida{
+            padding: 50px;
+        }
+        .cella_plena{
             padding: 20px;
         }
-        .taula_gran{
-            border-collapse: collapse;
-            border: 5px black solid;
-        }
+
     </style>
 </head>
 <body>
-<table class="taula_gran">
-    <tr>
-        <td>
-            <table>
-                <tr>
-                    <td class="cella_vermella">
-                        5
-                    </td>
-                    <td class="cella_verda">
-                        3    
-                    </td>
-                    <td class="cella_verda cella_buida">
-                        
-                    </td>
-                </tr>
-                <tr>
-                    <td class="cella_blava">
-                        6
-                    </td>
-                    <td class="cella_buida">
-                           
-                    </td>
-                    <td class="cella_buida">
-                        
-                    </td>
-                </tr>
-                <tr>
-                    <td class="cella_blava cella_buida">
-                        
-                    </td>
-                    <td>
-                        9    
-                    </td>
-                    <td>
-                        8
-                    </td>
-                </tr>
-            </table>
-        </td>
-        <td>
-            <table>
-                <tr>
-                    <td class="cella_vermella">
-                        5
-                    </td>
-                    <td class="cella_verda">
-                        3    
-                    </td>
-                    <td class="cella_verda cella_buida">
-                        
-                    </td>
-                </tr>
-                <tr>
-                    <td class="cella_blava">
-                        6
-                    </td>
-                    <td class="cella_buida">
-                           
-                    </td>
-                    <td class="cella_buida">
-                        
-                    </td>
-                </tr>
-                <tr>
-                    <td class="cella_blava cella_buida">
-                        
-                    </td>
-                    <td>
-                        9    
-                    </td>
-                    <td>
-                        8
-                    </td>
-                </tr>
-            </table>
-        </td>
-        <td>
-            <table>
-                <tr>
-                    <td class="cella_vermella">
-                        5
-                    </td>
-                    <td class="cella_verda">
-                        3    
-                    </td>
-                    <td class="cella_verda cella_buida">
-                        
-                    </td>
-                </tr>
-                <tr>
-                    <td class="cella_blava">
-                        6
-                    </td>
-                    <td class="cella_buida">
-                           
-                    </td>
-                    <td class="cella_buida">
-                        
-                    </td>
-                </tr>
-                <tr>
-                    <td class="cella_blava cella_buida">
-                        
-                    </td>
-                    <td>
-                        9    
-                    </td>
-                    <td>
-                        8
-                    </td>
-                </tr>
-            </table>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <table>
-                <tr>
-                    <td class="cella_vermella">
-                        5
-                    </td>
-                    <td class="cella_verda">
-                        3    
-                    </td>
-                    <td class="cella_verda cella_buida">
-                        
-                    </td>
-                </tr>
-                <tr>
-                    <td class="cella_blava">
-                        6
-                    </td>
-                    <td class="cella_buida">
-                           
-                    </td>
-                    <td class="cella_buida">
-                        
-                    </td>
-                </tr>
-                <tr>
-                    <td class="cella_blava cella_buida">
-                        
-                    </td>
-                    <td>
-                        9    
-                    </td>
-                    <td>
-                        8
-                    </td>
-                </tr>
-            </table>
-        </td>
-        <td>
-            <table>
-                <tr>
-                    <td class="cella_vermella">
-                        5
-                    </td>
-                    <td class="cella_verda">
-                        3    
-                    </td>
-                    <td class="cella_verda cella_buida">
-                        
-                    </td>
-                </tr>
-                <tr>
-                    <td class="cella_blava">
-                        6
-                    </td>
-                    <td class="cella_buida">
-                           
-                    </td>
-                    <td class="cella_buida">
-                        
-                    </td>
-                </tr>
-                <tr>
-                    <td class="cella_blava cella_buida">
-                        
-                    </td>
-                    <td>
-                        9    
-                    </td>
-                    <td>
-                        8
-                    </td>
-                </tr>
-            </table>
-        </td>
-        <td>
-            <table>
-                <tr>
-                    <td class="cella_vermella">
-                        5
-                    </td>
-                    <td class="cella_verda">
-                        3    
-                    </td>
-                    <td class="cella_verda cella_buida">
-                        
-                    </td>
-                </tr>
-                <tr>
-                    <td class="cella_blava">
-                        6
-                    </td>
-                    <td class="cella_buida">
-                           
-                    </td>
-                    <td class="cella_buida">
-                        
-                    </td>
-                </tr>
-                <tr>
-                    <td class="cella_blava cella_buida">
-                        
-                    </td>
-                    <td>
-                        9    
-                    </td>
-                    <td>
-                        8
-                    </td>
-                </tr>
-            </table>
-        </td>
-
-    </tr>
-    <tr>
-        <td>
-            <table>
-                <tr>
-                    <td class="cella_vermella">
-                        5
-                    </td>
-                    <td class="cella_verda">
-                        3    
-                    </td>
-                    <td class="cella_verda cella_buida">
-                        
-                    </td>
-                </tr>
-                <tr>
-                    <td class="cella_blava">
-                        6
-                    </td>
-                    <td class="cella_buida">
-                           
-                    </td>
-                    <td class="cella_buida">
-                        
-                    </td>
-                </tr>
-                <tr>
-                    <td class="cella_blava cella_buida">
-                        
-                    </td>
-                    <td>
-                        9    
-                    </td>
-                    <td>
-                        8
-                    </td>
-                </tr>
-            </table>
-        </td>
-        <td>
-            <table>
-                <tr>
-                    <td class="cella_vermella">
-                        5
-                    </td>
-                    <td class="cella_verda">
-                        3    
-                    </td>
-                    <td class="cella_verda cella_buida">
-                        
-                    </td>
-                </tr>
-                <tr>
-                    <td class="cella_blava">
-                        6
-                    </td>
-                    <td class="cella_buida">
-                           
-                    </td>
-                    <td class="cella_buida">
-                        
-                    </td>
-                </tr>
-                <tr>
-                    <td class="cella_blava cella_buida">
-                        
-                    </td>
-                    <td>
-                        9    
-                    </td>
-                    <td>
-                        8
-                    </td>
-                </tr>
-            </table>
-        </td>
-        <td>
-            <table>
-                <tr>
-                    <td class="cella_vermella">
-                        5
-                    </td>
-                    <td class="cella_verda">
-                        3    
-                    </td>
-                    <td class="cella_verda cella_buida">
-                        
-                    </td>
-                </tr>
-                <tr>
-                    <td class="cella_blava">
-                        6
-                    </td>
-                    <td class="cella_buida">
-                           
-                    </td>
-                    <td class="cella_buida">
-                        
-                    </td>
-                </tr>
-                <tr>
-                    <td class="cella_blava cella_buida">
-                        
-                    </td>
-                    <td>
-                        9    
-                    </td>
-                    <td>
-                        8
-                    </td>
-                </tr>
-            </table>
-        </td>
-
-    </tr>
-</table>
+    <table>
+        <tr>
+            <td>
+                <table>
+                    <tr>
+                        <td class="cella_vermella cella_plena">
+                            5    
+                        </td>
+                        <td class="cella_verda cella_plena">
+                            3    
+                        </td>
+                        <td class="cella_verda cella_buida">
+            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="cella_blava cella_plena">
+                            6
+                        </td>
+                        <td class="cella_buida">
+            
+                        </td>
+                        <td class="cella_buida">
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="cella_blava cella_buida">
+            
+                        </td>
+                        <td class="cella_plena">
+                            9    
+                        </td>
+                        <td class="cella_plena">
+                            8
+                        </td>
+                    </tr>
+                </table>
+            </td>
+            <!--segona taula-->
+            <td>
+                <table>
+                    <tr>
+                        <td class="cella_verda cella_buida">
+                                
+                        </td>
+                        <td class="cella_verda cella_plena">
+                            3    
+                        </td>
+                        <td class="cella_verda cella_buida">
+            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="cella_blava cella_plena">
+                            6
+                        </td>
+                        <td class="cella_buida">
+            
+                        </td>
+                        <td class="cella_buida">
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="cella_blava cella_buida">
+            
+                        </td>
+                        <td class="cella_plena">
+                            9    
+                        </td>
+                        <td class="cella_plena">
+                            8
+                        </td>
+                    </tr>
+                </table>
+            </td>
+            <td>
+                <table>
+                    <tr>
+                        <td class="cella_vermella cella_plena">
+                            5    
+                        </td>
+                        <td class="cella_verda cella_plena">
+                            3    
+                        </td>
+                        <td class="cella_verda cella_buida">
+            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="cella_blava cella_plena">
+                            6
+                        </td>
+                        <td class="cella_buida">
+            
+                        </td>
+                        <td class="cella_buida">
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="cella_blava cella_buida">
+            
+                        </td>
+                        <td class="cella_plena">
+                            9    
+                        </td>
+                        <td class="cella_plena">
+                            8
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <table>
+                    <tr>
+                        <td class="cella_vermella cella_plena">
+                            5    
+                        </td>
+                        <td class="cella_verda cella_plena">
+                            3    
+                        </td>
+                        <td class="cella_verda cella_buida">
+            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="cella_blava cella_plena">
+                            6
+                        </td>
+                        <td class="cella_buida">
+            
+                        </td>
+                        <td class="cella_buida">
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="cella_blava cella_buida">
+            
+                        </td>
+                        <td class="cella_plena">
+                            9    
+                        </td>
+                        <td class="cella_plena">
+                            8
+                        </td>
+                    </tr>
+                </table>
+            </td>
+            <td>
+                <table>
+                    <tr>
+                        <td class="cella_vermella cella_plena">
+                            5    
+                        </td>
+                        <td class="cella_verda cella_plena">
+                            3    
+                        </td>
+                        <td class="cella_verda cella_buida">
+            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="cella_blava cella_plena">
+                            6
+                        </td>
+                        <td class="cella_buida">
+            
+                        </td>
+                        <td class="cella_buida">
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="cella_blava cella_buida">
+            
+                        </td>
+                        <td class="cella_plena">
+                            9    
+                        </td>
+                        <td class="cella_plena">
+                            8
+                        </td>
+                    </tr>
+                </table>
+            </td>
+            <td>
+                <table>
+                    <tr>
+                        <td class="cella_vermella cella_plena">
+                            5    
+                        </td>
+                        <td class="cella_verda cella_plena">
+                            3    
+                        </td>
+                        <td class="cella_verda cella_buida">
+            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="cella_blava cella_plena">
+                            6
+                        </td>
+                        <td class="cella_buida">
+            
+                        </td>
+                        <td class="cella_buida">
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="cella_blava cella_buida">
+            
+                        </td>
+                        <td class="cella_plena">
+                            9    
+                        </td>
+                        <td class="cella_plena">
+                            8
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <table>
+                    <tr>
+                        <td class="cella_vermella cella_plena">
+                            5    
+                        </td>
+                        <td class="cella_verda cella_plena">
+                            3    
+                        </td>
+                        <td class="cella_verda cella_buida">
+            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="cella_blava cella_plena">
+                            6
+                        </td>
+                        <td class="cella_buida">
+            
+                        </td>
+                        <td class="cella_buida">
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="cella_blava cella_buida">
+            
+                        </td>
+                        <td class="cella_plena">
+                            9    
+                        </td>
+                        <td class="cella_plena">
+                            8
+                        </td>
+                    </tr>
+                </table>
+            </td>
+            <td>
+                <table>
+                    <tr>
+                        <td class="cella_vermella cella_plena">
+                            5    
+                        </td>
+                        <td class="cella_verda cella_plena">
+                            3    
+                        </td>
+                        <td class="cella_verda cella_buida">
+            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="cella_blava cella_plena">
+                            6
+                        </td>
+                        <td class="cella_buida">
+            
+                        </td>
+                        <td class="cella_buida">
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="cella_blava cella_buida">
+            
+                        </td>
+                        <td class="cella_plena">
+                            9    
+                        </td>
+                        <td class="cella_plena">
+                            8
+                        </td>
+                    </tr>
+                </table>
+            </td>
+            <td>
+                <table>
+                    <tr>
+                        <td class="cella_vermella cella_plena">
+                            5    
+                        </td>
+                        <td class="cella_verda cella_plena">
+                            3    
+                        </td>
+                        <td class="cella_verda cella_buida">
+            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="cella_blava cella_plena">
+                            6
+                        </td>
+                        <td class="cella_buida">
+            
+                        </td>
+                        <td class="cella_buida">
+                            
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="cella_blava cella_buida">
+            
+                        </td>
+                        <td class="cella_plena">
+                            9    
+                        </td>
+                        <td class="cella_plena">
+                            8
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>  
 </body>
 </html>
 ```
