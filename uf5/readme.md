@@ -40,6 +40,7 @@ Ara per arrencar el programa obrim un terminal i escrivim **code** o a Aplicacio
 - [2 - mapa d'imatges](mapa_imatges.md)
 - [3 - activitats de llistes](activitat_llistes.md)
 - [4 - Activitat colors](activitat_colors.md)
+- [5 - Activitat passatemps](activitat_passatemps.md)
 
 
 - [Per practicar si heu enllestit la feina](practicar.md)
