@@ -33,6 +33,9 @@ Ara per arrencar el programa obrim un terminal i escrivim **code** o a Aplicacio
 - [Border](borderCSS.md)
 - [Margin i padding](marging_paddingCSS.md)
 - [Activitat classe Sudoku](activitat_sudoku.md)
+- [Format de text](formatText.md)
+- [Fonts de lletra](fonts.md)
+- [Float i clear](float_clear.md)
 
 ## Activitats
 
