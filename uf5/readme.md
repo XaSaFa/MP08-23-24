@@ -44,6 +44,7 @@ Ara per arrencar el programa obrim un terminal i escrivim **code** o a Aplicacio
 - [3 - activitats de llistes](activitat_llistes.md)
 - [4 - Activitat colors](activitat_colors.md)
 - [5 - Activitat passatemps](activitat_passatemps.md)
+- [6 - CSS variat](activitat_css_variat.md)
 
 
 - [Per practicar si heu enllestit la feina](practicar.md)
