@@ -21,3 +21,4 @@
 ## Recursos
 
 - [Tutorial de Moodle](https://dungeonofbits.com/category/moodle.html)
+- [Vídeo tutorial instal·lació Moodle](https://youtu.be/sKhYV19Rgw0)
