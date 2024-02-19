@@ -1,5 +1,7 @@
 # Portals web d'aprenentatge
 
+Data màxima entrega activitats fins el 10 de Març.
+
 ## Teoria
 
 - [Introduction](intro.md)
