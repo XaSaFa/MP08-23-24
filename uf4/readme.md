@@ -24,3 +24,8 @@ Data màxima entrega activitats fins el 10 de Març.
 
 - [Tutorial de Moodle](https://dungeonofbits.com/category/moodle.html)
 - [Vídeo tutorial instal·lació Moodle](https://youtu.be/sKhYV19Rgw0)
+- Resetejar password d'un usuari de Moodle:
+  
+![image](https://github.com/XaSaFa/MP08-23-24/assets/110727546/97100736-4b6f-41bc-8777-a183c2cf4dbd)
+
+
