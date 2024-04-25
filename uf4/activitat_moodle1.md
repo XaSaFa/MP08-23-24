@@ -13,9 +13,9 @@ Documenteu la instal·lació de Moodle a la vostra Màquina Virtual.
 
 - Explicar els requisits d'instal·lació de Moodle a nivell de software i hardware (1 punt).
 - Expliqueu els passos seguits durant la instal·lació de Moodle afegiu captures(8 punts).
-  -   Instal·lació APACHE (1p).
-  -   Instal·lació BBDD (1p).
-  -   Instal·lació PHP (1p).
-  -   Instal·lació Moodle (1p).
+  -   Instal·lació APACHE (2p).
+  -   Instal·lació BBDD (2p).
+  -   Instal·lació PHP (2p).
+  -   Instal·lació Moodle (2p).
 - Documentar els problemes que hem tingut durant la instal·lació amb captures(1 punts).
 
