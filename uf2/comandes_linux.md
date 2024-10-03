@@ -1,5 +1,10 @@
 # Comandes Linux Terminal
 
+Accedir a una carpeta:
+```
+cd CARPETA
+```
+
 Conèixer la IP de l'ordinador:
 ```
 ip a
@@ -13,6 +18,12 @@ ping IP
 Instal·lar paquet XXXX de apt:
 ```
 sudo apt install XXXX
+```
+
+desinstal·lar paquet XXXX de apt:
+```
+sudo apt remove XXXX
+sudo apt purge XXXX
 ```
 
 Comprovar si un servei funciona:
