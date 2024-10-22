@@ -6,7 +6,7 @@
 
 Learning Management Systems or LMS are software applications that **creates a virtual environment of study**.
 
-## Who participates on an LMS?
+## Roles - Who participates on an LMS?
 
 If we analyze how a course is taught in a school we are going to see some roles.
 
@@ -18,7 +18,7 @@ There can be more roles in an LMS but they are usually specialties of existing r
 
 ## What are the benefits of use an LMS?
 
-- Students and teachers can access the course 24/7 because it is online always so there is no fixed schedule.
+- Students and teachers can access the course 24/7 because it is always online so there is no fixed schedule.
 - The users can access from anywhere with internet.
 - The resources of the course are accessible always.
 - The course is easily customizable.
@@ -26,7 +26,7 @@ There can be more roles in an LMS but they are usually specialties of existing r
 
 ## Who uses an LMS?
 
-The use of an LMS is always to learn or improve some subject.
+The use of an LMS is to learn or improve some subject.
 
 It can be used in **schools** and **universities** but it can also be used by **companies** that want some of their employees to learn or update their knowledge in a subject. 
 
@@ -42,8 +42,9 @@ You are going to investigate the situation of the LMS ecosystem today.
 
 In groups of three you are going to search the web and fill a table like the one below with 9 LMS.
 
-|  | SaaS | Installed |
+|  | SaaS* | Installed |
 |----------|----------|----------|
 | Free    |    |    |
 | Paid    |    |    |
 
+* Software as a service (SaaS) allows users to connect to and use cloud-based apps over the Internet. Common examples are email, calendaring, and office tools (such as Microsoft Office 365).
