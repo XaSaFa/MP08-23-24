@@ -69,7 +69,7 @@ Hem d'indicar el nom de l'id amb un coixinet **#**.
 
 ### Selector per classe:
 
-De vegades volem que diferents elements es comprotin igual, llavors assignem un atribut class que els identifica com membres d'una classe:
+De vegades volem que diferents elements es comportin igual, llavors assignem un atribut class que els identifica com membres d'una classe:
 
 [Exemple web](https://www.w3schools.com/css/tryit.asp?filename=trycss_syntax_class)
 
